@@ -3,7 +3,7 @@
 **Boostcamp web•mobile 7th** now~      
 **Elice SW Engineer Track 2nd** now~   
 **KIOST Intern**    
-**Busan IT Club <Project>**
+**Busan IT Club [Project]**
 
 <!--
 **Seongeuniii/Seongeuniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
